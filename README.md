@@ -3,6 +3,7 @@ vql.js
 *a very quick javascript library for doing very quick stuff…*
 
 [![Build Status](https://travis-ci.org/praffn/vql.svg?branch=master)](https://travis-ci.org/praffn/vql)
+[![npm version](https://badge.fury.io/js/vql.svg)](https://badge.fury.io/js/vql)
 
 * * * * * * * * * * * * * * * *
 
